@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python Version"/>
+  <img src="https://img.shields.io/badge/python-3.14+-blue.svg" alt="Python Version"/>
   <img src="https://img.shields.io/badge/version-0.1--alpha-orange.svg" alt="Version"/>
   <img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="Build Status"/>
   <img src="https://img.shields.io/badge/tests-passing-brightgreen.svg" alt="Tests"/>
